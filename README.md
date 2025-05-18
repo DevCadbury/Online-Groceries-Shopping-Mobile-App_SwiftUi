@@ -43,7 +43,8 @@ A modern SwiftUI-based iOS app for convenient online groceries shopping.
 
 ## Screenshots
 
-*(Add screenshots of your app here for more visual appeal)*
+![Image](https://github.com/user-attachments/assets/ff3987d4-1607-4554-a12b-c7244f3caaec)
+![Image](https://github.com/user-attachments/assets/93d6ee92-547e-4f21-b732-2ee23ff450eb)
 
 ## Contributing
 
