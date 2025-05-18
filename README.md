@@ -26,85 +26,73 @@ A sleek and modern SwiftUI-based iOS application for convenient online grocery s
 
 ## 🧱 Project Structure
 
+- `OnlineGroceriesSwiftUI/` – Main Swift/SwiftUI app source code  
+- `OnlineGroceriesSwiftUITests/` – Unit tests for app logic  
+- `OnlineGroceriesSwiftUIUITests/` – UI and integration tests  
 
+---
 
-- `OnlineGroceriesSwiftUI/` – Main Swift/SwiftUI app source code
-- `OnlineGroceriesSwiftUITests/` – Unit tests for app logic
-- `OnlineGroceriesSwiftUIUITests/` – UI and integration tests
-
-## Getting Started
+## 🛠️ Getting Started
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/DevCadbury/Online-Groceries-Shopping-Mobile-App_SwiftUi.git
    ```
 2. **Open in Xcode**
-   - Open the `.xcodeproj` file in Xcode 13 or above.
+   - Open the `.xcodeproj` file using Xcode 13 or newer.
 3. **Build and Run**
-   - Choose a simulator or device and press `Run` (⌘+R) in Xcode.
+   - Select a simulator or real device and press `Run` (⌘+R) in Xcode.
 
-## Requirements
+---
 
-- iOS 13.0 or later
-- Xcode 13+
-- Swift 5.0+
+## 📱 Requirements
 
-## Screenshots
+- iOS 13.0 or later  
+- Xcode 13 or newer  
+- Swift 5.0+  
 
-![Image](https://github.com/user-attachments/assets/ff3987d4-1607-4554-a12b-c7244f3caaec)
-![Image](https://github.com/user-attachments/assets/93d6ee92-547e-4f21-b732-2ee23ff450eb)
+---
 
-📂 Open in Xcode
-Navigate to the project directory
+## 📸 Screenshots
 
-Open the .xcodeproj file using Xcode 13 or newer
+<!-- Replace the links below with actual screenshot URLs -->
+![Home Screen](https://github.com/user-attachments/assets/ff3987d4-1607-4554-a12b-c7244f3caaec)
+![Product List](https://github.com/user-attachments/assets/93d6ee92-547e-4f21-b732-2ee23ff450eb)
+<!-- Add more screenshots as needed -->
 
-▶️ Build and Run
-Select a simulator or real device
+---
 
-Press ⌘ + R in Xcode to run the app
+## 🤝 Contributing
 
-📱 Requirements
-iOS 13.0 or later
-
-Xcode 13 or newer
-
-Swift 5.0+
-
-📸 Screenshots
-(Add screenshots of key screens such as Home, Product List, Cart, Checkout, and Order History here to showcase your UI)
-
-🤝 Contributing
 We welcome contributions from the community!
 
 To contribute:
 
-Fork the repository
-
-Create a new branch
-
-bash
-Copy
-Edit
-git checkout -b feature-name
-Make your changes
-
-Commit and push
-
-bash
-Copy
-Edit
-git commit -m "Add feature"
-git push origin feature-name
-Open a pull request with a detailed description
+1. Fork the repository  
+2. Create a new branch  
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes  
+4. Commit and push  
+   ```bash
+   git commit -m "Add feature"
+   git push origin feature-name
+   ```
+5. Open a pull request with a detailed description
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
-This project is open-source.
+---
+
+## 📄 License
+
+This project is open-source.  
 Please consider adding a LICENSE file to define usage rights and distribution.
 
-🙌 Acknowledgements
-Inspired by real-world e-commerce grocery apps
+---
 
-Built using SwiftUI, Xcode, and a passion for clean UI/UX
+## 🙌 Acknowledgements
+
+Inspired by real-world e-commerce grocery apps.  
+Built using SwiftUI, Xcode, and a passion for clean UI/UX.
